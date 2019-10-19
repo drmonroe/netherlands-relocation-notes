@@ -21,7 +21,7 @@ Note that it's best for the Blue Card application to be submitted a few months p
 
 The process, visualized:
 
-insert image
+![Netherlands Highly Skilled Migrant Workflow](https://mlabshare.blob.core.windows.net/malbshare/Blue-Card-Application-Process-Flow.png)
 
 ## Details:
 
