@@ -93,7 +93,9 @@ To obtain this benefit, the applicant must submit an application and provide sup
 Tips for working with the IND.
 
 ●	Do not be shy about calling them to inquire about the status of your case (of course, be polite) from outside the Netherlands: +31 880 430 430 (once in the country leave out the country code of course)
+
 ●	Do not be shy about calling them on a routine basis throughout the process; I’ve found this helps your application have somewhat greater visibility
+
 ●	Note that the IND is extra busy due to the confusion caused by Brexit as many UK residents of the Netherlands try to confirm or adjust their status
 
 
