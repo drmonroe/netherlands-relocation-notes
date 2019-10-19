@@ -10,7 +10,7 @@ Two of the common methods for acquiring residency as a highly skilled migrant ar
 
 1.) Sponsorship by a Registered Company
 
-A company that's registered with the IND as a sponsor for highly skilled migrants (this requires the company to pay a fee of approximately 4500 Euros and meet certain criteria - Cloudreach BV does not have this status)
+A company that's registered with the IND as a sponsor for highly skilled migrants (this requires the company to pay a fee of approximately 4500 Euros and meet certain criteria)
 
 2.) Apply for a European Blue Card
 
@@ -38,7 +38,7 @@ Blue Card applicants must possess post high school education of at least three y
 
 Application Submission
 
-In the case of a US citizen coming to The Netherlands using the Blue Card, the application must be submitted to the IND by Cloudreach, acting as the sponsor (that is, the application must be sent to the IND with Cloudreach BV's address used as the return and a Cloudreach representative listed as the contact).
+In the case of a US citizen coming to The Netherlands using the Blue Card, the application must be submitted to the IND by your employer, acting as the sponsor (that is, the application must be sent to the IND with your company's address used as the return and a company representative listed as the contact).
 
 
 
