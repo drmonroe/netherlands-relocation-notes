@@ -9,11 +9,11 @@ The Dutch Immigratie-en Naturalisatiedienst (IND) provides a method for the immi
 
 Two of the common methods for acquiring residency as a highly skilled migrant are:
 
-1.) Sponsorship by a Registered Company
+## 1.) Sponsorship by a Registered Company
 
 A company that's registered with the IND as a sponsor for highly skilled migrants (this requires the company to pay a fee of approximately 4500 Euros and meet certain criteria)
 
-2.) Apply for a European Blue Card
+## 2.) Apply for a European Blue Card
 
 The European Union provides an immigration instrument known as an EU Blue Card. This is recognized across the Eurozone, but uniquely implemented by each member country.
 
