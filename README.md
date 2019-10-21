@@ -1,9 +1,20 @@
-# Netherlands Relocation Notes
+# Netherlands Relocation Notes for US-Based Techies
 
-## A Guide to Help You Understand the Dutch Immigration Process for Highly Skilled Migrants
 
-## Synopsis:
+## A Guide to Help You Understand the Dutch Immigration Process for Highly Skilled Migrants (if you're from the US)
 
+## Introduction:
+
+After some years of visits, thought and planning, I recently relocated to the Netherlands - Amsterdam, to be precise.  The Netherlands is unique among the world's nations; small but vibrant, down to earth and practical but also open to new ideas. There are many opportunities for people who want to bring their skills and enthusiasm to the Netherlands. This applies to areas beyond tech but as a techie, this readme is focused on my experience as a technologist.  
+
+Hope you find it informative.
+
+Oh and here's a good article on the history of the Netherlands:
+
+https://en.wikipedia.org/wiki/History_of_the_Netherlands
+
+
+## The Process
 
 The Dutch Immigratie-en Naturalisatiedienst (IND) provides a method for the immigration of what are known as 'highly skilled migrants'.  These are individuals who possess skills which are needed in The Netherlands, but which are in relatively short supply.
 
@@ -11,11 +22,11 @@ Two of the common methods for acquiring residency as a highly skilled migrant ar
 
 ## 1.) Sponsorship by a Registered Company
 
-A company that's registered with the IND as a sponsor for highly skilled migrants (this requires the company to pay a fee of approximately 4500 Euros and meet certain criteria)
+A company that's registered with the IND as a sponsor for highly skilled migrants. This requires the company to pay a fee of approximately 4500 Euros and meet certain criteria. Many, but not all firms possess this status.
 
 ## 2.) Apply for a European Blue Card
 
-The European Union provides an immigration instrument known as an EU Blue Card. This is recognized across the Eurozone, but uniquely implemented by each member country.
+The European Union provides an immigration instrument known as an EU Blue Card. This is recognized across the Eurozone (with a few exceptions such as the UK and Sweden), but uniquely implemented by each member country.
 
 Note that it's best for the Blue Card application to be submitted a few months prior to the applicant's arrival to shorten the wait time once she or he is in-country.
 
@@ -39,7 +50,7 @@ Blue Card applicants must possess post high school education of at least three y
 
 * Application Submission
 
-In the case of a US citizen coming to The Netherlands using the Blue Card, the application must be submitted to the IND by your employer, acting as the sponsor (that is, the application must be sent to the IND with your company's address used as the return and a company representative listed as the contact).
+In the case of a US citizen coming to The Netherlands using the Blue Card, the application may be submitted to the IND by your employer, acting as the sponsor (that is, the application must be sent to the IND with your company's address used as the return and a company representative listed as the contact).
 
 
 
@@ -51,7 +62,7 @@ Once the application is received, the IND will take 10 days to scan it into thei
 * Options for Appointments
 
 
-Applicants can schedule appointments with the Gemeente (municipal office) or, for a fee (but with the advantage of faster processing) use the In Amsterdam Center (https://www.iamsterdam.com/en/our-network/in-amsterdam/contact-us ). I used the In Amsterdam Center and was happy with the service they offered but it did cost, in total, almost 600 Euros (this is inclusive of the BSN processing, registration and Blue Card pick-up appointment).
+Applicants can schedule appointments with the Gemeente (municipal office) or, for a fee (but with the advantage of faster processing) use the In Amsterdam Center (https://www.iamsterdam.com/en/our-network/in-amsterdam/contact-us ). I used the In Amsterdam Center and was happy with the service they offered but it did cost, in total, almost 600 Euros (this is inclusive of the BSN processing, registration, bio metric scanning and Blue Card pick-up appointment).
 
 
 
@@ -62,21 +73,21 @@ Applicants can schedule appointments with the Gemeente (municipal office) or, fo
 To properly register, there are a few things the applicant needs:
 
 * Passport (of course)
-* Employment Contract (provided by Cloudreach)
+* Employment Contract (provided by your employer)
 * Rental agreement document
-* Birth certificate (apostilled by the issuing authority - information: https://en.wikipedia.org/wiki/Apostille_Convention )
+* Birth certificate (apostilled by the issuing authority - information on apostilles: https://en.wikipedia.org/wiki/Apostille_Convention )
 * Marriage certificate, if married (also apostilled)
 
-The applicant will need to check with her or his local US State rules regarding how to have vital documents apostilled. Do not neglect this step; Dutch immigration will not grant residency status if your documents have not been authorized.
+The applicant will need to check with her or his local US State rules regarding how to have vital documents apostilled. Do not neglect this step; Dutch immigration will not grant residency status if your documents have not been authorized by the issuing body.
 
 
 * Notice of Decision Letter
 
 After the applicant has registered with the government and received a BSN (Citizen Service Number - similar in purpose to the American Social Security number) the IND will, at some point, send a notice of decision letter. I say, ‘at some point’ because the IND has a legally allowed time allotment of 90 days to make a decision so the letter may arrive at any point during this window. 
 
-Once the letter has arrived (and, like the Acknowledgement of Receipt letter, it will arrive at the Cloudreach BV office on Herengracht), assuming the decision was positive, the next step is to schedule an appointment to record biometrics - fingerprints and an iris scan.  Like the appointment for registration and receiving a BSN, this can be done either at a Gemeente office (https://www.amsterdam.nl/) or at the In Amsterdam Center (note that the In Amsterdam Center charges a fee). Remember to bring your passport.
+Once the letter has arrived (and, like the Acknowledgement of Receipt letter, it will arrive at your company/sponsor office), assuming the decision was positive, the next step is to schedule an appointment to record biometrics - fingerprints and an iris scan.  Like the appointment for registration and receiving a BSN, this can be done either at a Gemeente office (https://www.amsterdam.nl/) or at the In Amsterdam Center (remember that the In Amsterdam Center charges a fee). Do not forget to bring your passport.
 
-During the appointment, the government agent will place a temporary residence stamp in your passport that will be good for three months (needed if you’re travelling outside of the Netherlands before your official Blue Card (which, remember, is also your residency card) arrives.
+During the appointment, the government agent will place a temporary residence stamp in your passport that will be good for three months (needed if you’re travelling outside of the Netherlands before your official Blue Card (which, recall, is also your residency card) arrives.
 
 ## 30 Percent Ruling 
 
@@ -91,13 +102,16 @@ To obtain this benefit, the applicant must submit an application and provide sup
 * 17 months of mortgage or rental statements (for example invoices from your rental agency or the bank holding a house mortgage)
 * 17 months of utility bills 
 
-Tips for working with the IND.
+## Tips for working with the IND.
 
 ●	Do not be shy about calling them to inquire about the status of your case (of course, be polite) from outside the Netherlands: +31 880 430 430 (once in the country leave out the country code of course)
 
 ●	Do not be shy about calling them on a routine basis throughout the process; I’ve found this helps your application have somewhat greater visibility
 
 ●	Note that the IND is extra busy due to the confusion caused by Brexit as many UK residents of the Netherlands try to confirm or adjust their status
+
+
+Good luck!
 
 
 ## Resources
